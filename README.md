@@ -25,4 +25,4 @@ Tkinter (GUI)
 SQLite (Database)
 
 ## Screenshots
-![main window](screenshorts/pic.png)
+![main window](pic.png)
